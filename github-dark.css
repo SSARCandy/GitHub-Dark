@@ -3437,4 +3437,8 @@
     color: #099 !important;
   }
   /* Literal.Number.Integer.Long */
+
+  .slash {
+    margin-right: 0px;
+  }
 }
